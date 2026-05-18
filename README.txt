@@ -7,6 +7,16 @@ Tools Used:
 * Plotly
 * Pandas
 
+## 🚀 Live Demo
+https://kitchen-pnl-dashboard-tntqjiwa3kgefbocodqbme.streamlit.app/
+
+## 📁 Project Files
+- `app.py` – Main Streamlit application
+- `Kittchen PNL Data.xlsx` – Dataset
+- `Kitchen_PNL_Analysis.ipynb` – Analysis notebook
+- `requirements.txt` – Dependencies
+
+
 Python Version:
 
 * Python 3.11
@@ -31,3 +41,7 @@ Features:
 
 Run Command:
 streamlit run app.py
+
+👨‍💻 Author
+
+Shubham Thorat
