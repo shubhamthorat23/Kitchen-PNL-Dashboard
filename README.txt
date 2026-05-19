@@ -10,6 +10,9 @@ Tools Used:
 ## 🚀 Live Demo
 https://kitchen-pnl-dashboard-tntqjiwa3kgefbocodqbme.streamlit.app/
 
+## 🎥 Project Demo Video
+https://github.com/shubhamthorat23/Kitchen-PNL-Dashboard/blob/main/13.05.2026_17.32.37_REC%20(online-video-cutter.com).mp4
+
 ## 📁 Project Files
 - `app.py` – Main Streamlit application
 - `Kittchen PNL Data.xlsx` – Dataset
